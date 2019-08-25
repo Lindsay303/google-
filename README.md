@@ -1,41 +1,19 @@
-<h1 align="center"> Google Books React App </h1> <br>
+# React GBooks
 
-<p align="center">
-  Google Books API powered React application
-</p>
+A MERN app that allows users to search for books using the Google Books API and save any book to a database. Users can also delete any saved books.
 
-## Table of Contents
+Click [here](https://react-gbooks.herokuapp.com) to view the implementation on Heroku.
 
-- [Demo](#demo)
-- [Status](#status)
-- [Features](#features)
-- [Feedback](#feedback)
-- [Build Process](#build-process)
+## Usage
 
-## Demo
+1. Search for a book using the search bar.
+2. Save any book of interest.
+3. Go to the Saved tab to view all your saved books and delete any if necessary.
 
-[Firebase demo app](https://books-react.firebaseapp.com/)
+## Future Development
 
-## Status
+- Add infinte scrolling
 
-[![Build Status](https://travis-ci.org/jamzi/google-books-react.svg?branch=master)](https://travis-ci.org/jamzi/google-books-react)
+## Authors
 
-
-## Features
-
-A few of the things you can do with Google Books React:
-
-* Log in with your Google credentials
-* Search books (+ infinite scroll for loading more content)
-* Browse your recommended books
-* Browse your bookshelves (To Read, Reading Now, Favorites...)
-* Add or remove books from bookshelves
-
-## Feedback
-File an issue [here](https://github.com/jamzi/google-books-react/issues/new).
-
-## Build Process
-
-- Clone the repo
-- Run `npm install`
-- Run `npm run start`
+- **Calvin Ho** - [calvh](https://github.com/calvh)
